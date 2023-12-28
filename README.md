@@ -1,0 +1,2 @@
+# hibernate-OneToOne
+OneToOne-Unidierctional
